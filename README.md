@@ -87,11 +87,11 @@ On your `FoodBox`, you have an input an "+" button. Use them so that when a user
 You will also need to display the total amount of calories at the bottom of the list as a recap.
 
 
-### Iteration 6 | Bonus | Group ingredients
+### Progression 5 | Bonus | Group ingredients
 
 You made an awesome application, but you have found a little problem in the UX. For example, if you click twice on "_Apple_", it will display 2 lines "_1 Apple = 400 cal_" instead of 1 line "_2 Apple = 800 cal_". Fix that problem.
 
-### Iteration 7 | Bonus | Allow the user to remove an ingredient
+### Progression 6 | Bonus | Allow the user to remove an ingredient
 
 On the "_Today's food_", add a trash icon to let users removing one of their items.
 
