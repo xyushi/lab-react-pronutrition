@@ -69,13 +69,11 @@ You can use this HTML snippet to display properly the `FoodBox`:
 </div>
 ```
 
-![](https://i.imgur.com/bY9i5Rw.png)
 
 ### Progression 2 | Display food
 
 In your `App` component (your main component), display as many `FoodBox` as elements inside the variable `foods`.
 
-![](https://i.imgur.com/3TVQJDO.png)
 
 ### Progression 3 | Implement search bar
 
@@ -88,8 +86,6 @@ On your `FoodBox`, you have an input an "+" button. Use them so that when a user
 
 You will also need to display the total amount of calories at the bottom of the list as a recap.
 
-
-If you don't remember how to create responsive columns with Bulma, you can check the [documentation](https://bulma.io/documentation/columns/basics/).
 
 ### Iteration 6 | Bonus | Group ingredients
 
