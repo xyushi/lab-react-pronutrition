@@ -23,13 +23,11 @@ In the end of this document, you will find guidelines on how to submit the exerc
 
 ### Introduction
 
-In this exercise, you will try to setup the react application. As you can see react is a javascript library to create super cool reusable UI. Our goal is to understand the ways in which you can include react to your application.
+You just realized that since the beginning of the bootcamp, your diet is not healthy and it may have an impact on your health (and productivity), now and in the long term.
 
-We will divide our work into three parts:
+To take care of the food you eat, you decided to create a nutrition app that will track everything you eat!
 
-- part I - Include react library in your html file
-- part II - Use JSX and babel compiler
-- part III - By using npm/yarn 
+![Image description](https://i1.faceprep.in/ProGrad/Pro-Nutrition.gif)
 
 So let's get started!
 
