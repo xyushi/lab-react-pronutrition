@@ -7,8 +7,8 @@
 
 In this exercise, the goal is to apply as many as possible of the concepts you've just learned:
 
-- when and how to setup react in your application,
-- ways of using react.
+- props and state in react,
+- event handling in react.
 
 ## Getting started
 
