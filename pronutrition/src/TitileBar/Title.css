@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.title{
+    height:50px;
+    background-color: purple;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+}
